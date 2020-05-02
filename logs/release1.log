@@ -1,0 +1,49 @@
+commit 7a14daf2171a612582744fd803fe5832077425b5
+Merge: 956307b 0b50dbc
+Author: Dilan <dilanantezana@gmail.com>
+Date:   Fri May 1 21:37:59 2020 -0400
+
+    Merge branch 'develop' into release
+
+commit 0b50dbc0bf6e9a3c997e835bd8a5784c7bf4c592
+Merge: 2b053e9 c422549 5d83cd7 08ae03e e3c9c4e
+Author: Dilan <dilanantezana@gmail.com>
+Date:   Fri May 1 21:28:45 2020 -0400
+
+    Merge branches 'feature1', 'feature2', 'feature3', 'feature4' and 'feature5' into develop
+
+commit e3c9c4e95c45a8ce82f147a9efe8b07195bc49fb
+Author: Dilan <dilanantezana@gmail.com>
+Date:   Fri May 1 21:24:01 2020 -0400
+
+    caracteristica 5 - R1
+
+commit 08ae03e6f37a16dc9c0d9c7ec46b28b7abc8f687
+Author: Dilan <dilanantezana@gmail.com>
+Date:   Fri May 1 21:18:42 2020 -0400
+
+    caracteristica 4 - R1
+
+commit 5d83cd74ca60f71488c0601c8658e962fb8b725d
+Author: Dilan <dilanantezana@gmail.com>
+Date:   Fri May 1 21:16:22 2020 -0400
+
+    caracteristica 3 - R1
+
+commit c422549860457bddce4c526704e3e39cf273ea78
+Author: Dilan <dilanantezana@gmail.com>
+Date:   Fri May 1 21:13:01 2020 -0400
+
+    caracteristica 2 del release 1
+
+commit 2b053e91b0b7726075994b48d06600103b909075
+Author: Dilan <dilanantezana@gmail.com>
+Date:   Fri May 1 21:04:36 2020 -0400
+
+    caracteristica 1 del release 1
+
+commit 956307b601ca6d3a12339468464c640d464d0fe1
+Author: Dilan <dilanantezana@gmail.com>
+Date:   Fri May 1 20:35:40 2020 -0400
+
+    INICIALIZANDO
