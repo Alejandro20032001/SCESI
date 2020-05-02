@@ -1,2 +1,1 @@
-caracteristica 4 del release 1
-
+caracteristica 4 del release 2
