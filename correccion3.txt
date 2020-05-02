@@ -1,0 +1,3 @@
+CORRECCION 3: 
+- REPORTE : La aplicacion se salia sin ningun motivo
+- ESTADO: Solucionado 
